@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "name": "Colosseum",
+    "city": "Rome",
+    "country": "Itlay",
+    "entry_price":"50",
+    "address": "Piazza del Colosseo, 1, 00184, Rome RM, Itlay",
+    "opening_time": "9:00 AM",
+    "closing_time": "7:00 PM",
+    "categories": ["Most Visited", "Historical"],
+    "images": [
+      "https://cdn.britannica.com/75/75775-050-1FC4B34B/Colosseum-Rome.jpg",
+      "https://cdn-imgix.headout.com/media/images/f3bbdaa3faadf800511a38bcb902cdf3-21451-rome-colosseum--roman-forum-and-palatine-mountain-guided-tour---optional-arena-access-02.jpg??fm=pjpg&auto=compress&w=1200&crop=faces&fit=min",
+      "https://cdn-imgix.headout.com/media/images/555507045a2fa80f266dba0bfe6e2a71-GuidedTouroftheColosseumUndergroundwithRomanForum-GladiatorArena3.jpg?w=930&h=581.25&crop=faces&auto=compress%2Cformat&fit=min",
+      "https://cdn-imgix.headout.com/media/images/e21caf360f41b3bb4c2d2cd0a8e821a0-GuidedTouroftheColosseumUndergroundwithRomanForum-GladiatorArena4.jpg?w=1200&h=750&crop=faces&auto=compress%2Cformat&fit=min",
+      "https://cdn-imgix.headout.com/media/images/ec1068d488ef43e4be4039b326e2fcdc-GuidedTouroftheColosseumUndergroundwithRomanForum-GladiatorArena1.jpg?w=1200&h=750&crop=faces&auto=compress%2Cformat&fit=min",
+      "https://media.istockphoto.com/id/1497983992/photo/low-angle-shot-of-colosseum-in-rome-italy-in-the-evening.webp?b=1&s=170667a&w=0&k=20&c=q5yVZWvmj0hC88vg4tp3O8LpZgu2rGDqf2OusUm6uk4=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYh3q9rJAxlOuvCKWEL5lYyUKPDDoQdONYHw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhl8PAeb5LyARBnDHd_bvj4DvfaXQGTae8K2kM2x1M4EDkN_nYdSXt5tCPxqZQzIkzMY&usqp=CAU"
+    ],
+    "coordinates": {
+      "lat": 41.8902,
+      "lon": 12.4922
+    }
+  },
+  {
+    "id": 2,
+    "name": "Tower of Pisa",
+    "city": "Pise",
+    "country": "Itlay",
+    "entry_price": "50",
+    "address": "Piazza del Duomo, 56126, Pisa PI, Itlay",
+    "opening_time": "9:00 AM",
+    "closing_time": "7:00 PM",
+    "categories": ["Popular"],
+    "images": [
+      "https://media.cnn.com/api/v1/images/stellar/prod/230809122119-03-leaning-tower-pisa-850-closeup.jpg?q=w_1110,c_fill",
+      "https://wallpaperaccess.com/full/224433.jpg",
+      "https://wallpaperaccess.com/full/224633.jpg",
+      "https://thumbs.dreamstime.com/b/leaning-tower-pisa-3254572.jpg",
+      "https://monkeyandmouse.co.uk/wp-content/uploads/2020/01/shutterstock_178587239-scaled.jpg",
+      "https://thumbs.dreamstime.com/b/leaning-tower-pisa-29585202.jpg",
+      "https://www.checkoutsam.com/wp-content/uploads/2017/12/baptistery-pisa-inside.jpg",
+      "https://www.gannett-cdn.com/-mm-/6cb0566daad6b8973e2c456e7a61df50f54939b5/c=0-117-1408-1994/local/-/media/2017/01/04/USATODAY/USATODAY/636191149244091355-GettyImages-537365893.jpg?width=534&height=712&fit=crop",
+      "https://livingnomads.com/wp-content/uploads/2021/05/31/leaning-tower-of-pisa-italy-5.jpg"
+    ],
+    "coordinates": {
+      "lat": 43.723,
+      "lon": 10.3966
+    }
+  },
+  {
+    "id": 3,
+    "name":"Taj Mahal",
+    "city": "Agra",
+    "country": "India",
+    "entry_price": "10",
+    "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+    "opening_time": "7:00 AM",
+    "closing_time": "6:00 PM",
+    "categories": ["Most Visited", "Historical"],
+    "images": [
+      "https://uprootedtraveler.com/wp-content/uploads/visiting-the-taj-mahal-tips-for-the-taj-mahal-agra-18.jpg",
+      "https://res.cloudinary.com/enchanting/q_70,f_auto,w_1200,h_675,c_fill,g_face/enchanting-web/2023/09/taj2.jpg",
+      "https://cdn.britannica.com/43/178143-050-1E8D6013/marble-portal-Taj-Mahal-India-Agra.jpg",
+      "https://cdn.i-scmp.com/sites/default/files/images/methode/2016/06/30/ba318890-39de-11e6-9a6a-3421f730b241_1280x720.JPG",
+      "https://www.themaharajaexpress.org/blog/wp-content/uploads/2017/10/Taj-Mahal-Agra.jpg",
+      "https://c8.alamy.com/comp/AW0Y9M/entry-gate-of-the-famous-taj-mahal-agra-india-AW0Y9M.jpg",
+      "https://as1.ftcdn.net/v2/jpg/01/06/68/72/1000_F_106687265_fkTdsRUX8zRo1ypxZIJH7vWerD7wpccL.jpg",
+      "https://media.istockphoto.com/id/1348312473/photo/the-main-gateway-to-taj-mahal-in-agra-india.jpg?s=612x612&w=0&k=20&c=BodR_22C2J8b3mszVc1Qq1PVEEzW-eP0tz2icsCPNOA=",
+      "https://foodandtravel.com/imager/hours/219609/Ministry-of-Tourism-Govt-of-India-595161_Taj-Mahal-Uttar-Pradesh-Aerial_821631bb23140209ea99c8f810f75634.jpg"
+    ],
+    "coordinates": {
+      "lat": 27.1751,
+      "lon": 78.0421
+    }
+  },
+  {
+    "id": 4,
+    "name":"Eiffel Tower",
+    "city": "Paris",
+    "country": "France",
+    "entry_price": "80",
+    "address": "Av. Gustave Eiffel, 75007 Paris, France",
+    "opening_time": "7:00 AM",
+    "closing_time": "8:00 PM",
+    "categories": ["Most Visited", "Trending", "Popular", "Recommanded"],
+    "images": [
+      "https://cdn.pixabay.com/photo/2015/10/06/18/26/eiffel-tower-975004_640.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Eiffel_Tower_Paris_01.JPG/389px-Eiffel_Tower_Paris_01.JPG",
+      "https://i.etsystatic.com/8026687/r/il/e16641/1436085510/il_570xN.1436085510_8o7t.jpg",
+      "https://dreamsinparis.com/wp-content/uploads/2022/04/Eiffel-Tower-view-from-Champs-de-Mars-1024x768.jpg",
+      "https://lp-cms-production.s3.amazonaws.com/public/2021-05/shutterstockRF_625313285.jpg",
+      "https://www.tourradar.com/days-to-come/wp-content/uploads/2018/01/soroush-karimi-250194-min.jpg",
+      "https://cdn.tourcms.com/a/11676/2191/1/large.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyo1Pzvdjs2waMve7S09detXrBD9lxU2Xm9mSmmlcwvBz0xbVcN4fdU1kSp5O5ZLRfEng&usqp=CAU",
+      "https://cdn.sortiraparis.com/images/80/83517/672234-visuel-paris-tour-eiffel.jpg"
+    ],
+    "coordinates": {
+      "lat": 48.8584,
+      "lon": 2.2945
+    }
+  },
+  {
+    "id": 5,
+    "name": "Burj Khalifa",
+    "city": "Dubai",
+    "country": "UAE",
+    "entry_price": "80",
+    "address": "1 Sheikh Mohammed bin Rashid Blvd - Downtown Dubai - Dubai - United Arab Emirates",
+    "opening_time": "6:00 AM",
+    "closing_time": "12:00 PM",
+    "categories": ["Most Visited", "Trending", "Popular", "Exculsive"],
+    "images": [
+      "https://i.pinimg.com/564x/e7/fb/0f/e7fb0f8456b3b75c119ea15b910c990e.jpg",
+      "https://i.pinimg.com/564x/7d/bf/38/7dbf384c6b29152653d9178d4f37fb24.jpg",
+      "https://i.pinimg.com/564x/83/89/5a/83895aeab44178921ac64a324fb3289a.jpg",
+      "https://i.pinimg.com/564x/37/95/9f/37959f61e3a719ab16bf2d2d4a1ff4dc.jpg",
+      "https://i.pinimg.com/564x/82/46/a1/8246a188cd6e1255ce4722bb8c5b9b46.jpg",
+      "https://i.pinimg.com/564x/cd/58/2d/cd582d82b4e1e8e2b7cefce61c8c1747.jpg",
+      "https://sothebysrealty.ae/cdn-cgi/image/format=auto,width=1200,fit=cover,quality=75/https://sothebys-assets.s3.eu-west-2.amazonaws.com/76e93225-75f8-42af-9d62-4e89e3206d9b.webp",
+      "https://media.cnn.com/api/v1/images/stellar/prod/180301143756-burj-khalifa-dubai-guide-21.jpg?q=w_3543,h_2362,x_0,y_0,c_fill"
+    ],
+    "coordinates": {
+      "lat": 25.197525,
+      "lon": 55.274288
+    }
+  },
+  {
+    "id": 6,
+    "name": "Opera House",
+    "city": "Sydney",
+    "country": "Australia",
+    "entry_price": "20",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "opening_time": "9:00 AM",
+    "closing_time": "10:00 PM",
+    "categories": ["Exculsive", "Popular", "Recommanded"],
+    "images": [
+      "https://i.pinimg.com/564x/17/7c/25/177c2534c793f7c45ce91bfe21d54242.jpg",
+      "https://i.guim.co.uk/img/media/f367a7585bfa9f888460fb7cb871b8f3ff553973/0_22_8192_4918/master/8192.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=144004bc033edee19d67b9f24eca3732",
+      "https://assets.atdw-online.com.au/images/082abec166a817adfae646daff53ad70.jpeg?rect=0%2C0%2C2048%2C1536&w=2048&h=1536&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjU2YjIzYzkyZDVmMTU2NTA0NWQ4MTBkMiIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9",
+      "https://www.canberratimes.com.au/images/transform/v1/crop/frm/Z4Q6sUEHdcmw72MBPYgZkU/0f8f8897-ae81-4da7-85d1-dd93fcc4ea77.jpg/r0_76_2000_1200_w1200_h678_fmax.jpg",
+      "https://media.tacdn.com/media/attractions-content--1x-1/0b/17/2f/08.jpg",
+      "https://static.independent.co.uk/2024/03/20/17/newFile-5.jpg?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp"
+    
+    ],
+        "coordinates": {
+      "lat": -33.856159,
+      "lon": 151.215256
+    }
+  },
+  {
+    "id": 7,
+    "name": "Statue of Liberty",
+    "city": "New York",
+    "country": "USA",
+    "entry_price": "20",
+    "address": "New York, NY 10004, USA",
+    "opening_time": "6:00 AM",
+    "closing_time": "12:00 PM",
+    "categories": ["Historical", "Popular"],
+    "images": [
+      "https://i.pinimg.com/564x/8e/01/ce/8e01ce235f55eb961b5e5087cceb8146.jpg",
+      "https://i.pinimg.com/564x/15/d8/d6/15d8d6b93eee38e72d20ce154d22abdd.jpg",
+      "https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/21/202/tdih-jun17-HD.jpg",
+      "https://cdn.britannica.com/56/10256-050-7F90918D/immigrants-country-Statue-of-Liberty-glimpses-Upper.jpg",
+      "https://qph.cf2.quoracdn.net/main-qimg-4f0e25d55b29b122c1ca1028bc4752f6-lq",
+      "https://i.natgeofe.com/n/7267c8a1-a2af-4caa-af0f-ec4ad3b20637/NationalGeographic_185379_LR_2x3.jpg"
+    ], 
+    "coordinates": {
+      "lat": 40.7128,
+      "lon": 74.0060
+    }
+  },
+  {
+    "id": 8,
+    "name": "Big Ben Tower",
+    "city": "London",
+    "country": "UK",
+    "entry_price": "30",
+    "address": "London SW1A 0AA, United Kingdom",
+    "opening_time": "9:00 AM",
+    "closing_time": "10:00 PM",
+    "categories": ["Exculsive", "Popular"],
+    "images": [
+      "https://i.pinimg.com/564x/35/b1/36/35b136d62f2fac382e9f1e0af73ee2d8.jpg",
+      "https://img.freepik.com/premium-photo/big-ben-clock-tower-london-thames-river-wallpaper_590614-4957.jpg?w=740",
+      "https://w0.peakpx.com/wallpaper/405/622/HD-wallpaper-clock-tower-big-ben-britain-england-europe-london-uk.jpg",
+      "https://churchofjesuschrist.org/imgs/84a3551ec3d4abdd5fed0d95ae766ad723a52985/full/1600%2C/0/default",
+      "https://cdn.britannica.com/89/187589-050-E8D5A657/Workers-Big-Ben-London.jpg",
+      "https://images.ctfassets.net/pjshm78m9jt4/6cyKs1GnNKrZpAdcjO30sz/24bead6d912d0a844d15bc8ffb333b6d/BIG_BEN_4.jpg",
+      "https://img.freepik.com/premium-photo/big-ben-clock-tower-london-england_79295-6811.jpg"
+  
+    
+    ],
+  
+    "coordinates": {
+      "lat": 51.5007,
+      "lon": 0.1246
+    
+  }
+}]
+
+
