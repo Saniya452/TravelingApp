@@ -1,13 +1,20 @@
 // AttractionDetails.js
 import React from "react";
-import { SafeAreaView,Text, ImageBackground,View,Pressable,Image} from "react-native";
+import {
+  SafeAreaView,
+  Text,
+  ImageBackground,
+  View,
+  Pressable,
+  Image,
+} from "react-native";
 import styles from "./style";
 import MapView, { Marker } from "react-native-maps";
 import Title from "../../Components/Title";
 import InfoCard from "../../Components/InfoCard";
 import { ScrollView } from "react-native-gesture-handler";
-// import Share from 'react-native-share';
-
+import * as FileSystem from "expo-file-system";
+import * as Sharing from "expo-sharing";
 
 const AttractionDetails = ({ navigation, route }) => {
   const { item } = route?.params || {};
@@ -29,17 +36,20 @@ const AttractionDetails = ({ navigation, route }) => {
   const onGalleryNavigate = () => {
     navigation.navigate("Gallery", { images: item?.images });
   };
-  // const onShare = () => {
-  //   Share.open({
-  //     message: 'This is a test message',
-  //   })
-  //   .then((res) => {
-  //     console.log(res);
-  //   })
-  //   .catch((err) => {
-  //     err && console.log(err);
-  //   });
-  // }
+
+  const openShareDialogAsync = async () => {
+    try {
+      if (mainImage) {
+        const downloadPath = FileSystem.documentDirectory + "mainImage.jpg";
+        const { uri } = await FileSystem.downloadAsync(mainImage, downloadPath);
+        await Sharing.shareAsync(uri);
+      } else {
+        alert("No image to share");
+      }
+    } catch (error) {
+      console.error("Error sharing image:", error);
+    }
+  };
 
   return (
     <SafeAreaView style={styles.container}>
@@ -56,12 +66,12 @@ const AttractionDetails = ({ navigation, route }) => {
                 source={require("../../Assets/back.png")}
               />
             </Pressable>
-            {/* <Pressable onPress={onShare} hitSlop={8}>
+            <Pressable onPress={() => openShareDialogAsync()} hitSlop={8}>
               <Image
                 style={styles.icon}
                 source={require("../../Assets/share.png")}
               />
-            </Pressable> */}
+            </Pressable>
           </View>
 
           <Pressable onPress={onGalleryNavigate} style={styles.footer}>
