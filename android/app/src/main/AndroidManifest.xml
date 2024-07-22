@@ -33,10 +33,6 @@ package="com.travelapp">
        android:value="AIzaSyD3-w-A0GY02_YeFYU2CBzGAa7Iq8sFvBc"/>
     </application>
     <queries>
-        <package android:name="com.example.store" />
-        <package android:name="com.example.services" />
-
-        <!--for example, to share via instagram -->
         <package android:name="com.instagram.android" />
     </queries>
 </manifest>
